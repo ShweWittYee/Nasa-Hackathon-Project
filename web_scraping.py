@@ -31,7 +31,7 @@ BASE_URL = (
 )
 
 # DOWNLOAD SETTINGS
-ZOOM_LEVEL = 5
+ZOOM_LEVEL = 4
 TARGET_IMAGES = 30
 
 # Process candidate URLs in batches
